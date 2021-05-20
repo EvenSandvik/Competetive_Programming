@@ -1,2 +1,2 @@
-# Competetive_Programming
-My solutions to programming problems
+# Competetive Programming
+My solutions to programming problems from kattis
